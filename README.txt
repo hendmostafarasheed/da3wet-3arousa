@@ -1,4 +1,4 @@
-LAMSA — Landing Page for GitHub Pages
+Da3wet 3arousa — Landing Page for GitHub Pages
 ======================================
 
 FILES
@@ -24,7 +24,7 @@ CONNECT YOUR GOOGLE FORM LATER
 4. To collect form answers in a spreadsheet, open the Form > Responses > green Google Sheets icon > Create new spreadsheet. Responses will be added as new rows automatically.
 
 CUSTOMIZE
-- Brand name: edit the "LAMSA" / "لَمْسَة" text in index.html.
+- Brand name: edit the "Da3wet 3arousa" / "دعوة عروسة" text in index.html.
 - Colors: edit the CSS variables at the beginning of style.css.
 - The sample invitation names are examples only.
 - Google Fonts are loaded online; fallback fonts are included.

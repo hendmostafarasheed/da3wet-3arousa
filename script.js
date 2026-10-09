@@ -1,4 +1,4 @@
-/* LAMSA Landing Page
+/* Da3wet 3arousa Landing Page
    Add your Google Form responder URL below after creating the form.
    Example: const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/FORM_ID/viewform";
 */
@@ -38,7 +38,7 @@ function setLanguage(lang) {
   document.documentElement.dir = arabic ? "rtl" : "ltr";
   translated.forEach(el => { el.innerHTML = arabic ? el.dataset.ar : el.dataset.en; });
   languageToggle.textContent = arabic ? "EN" : "عربي";
-  document.title = arabic ? "لَمْسَة | دعوات إلكترونية فاخرة" : "Lamsa | Elegant Digital Invitations";
+  document.title = arabic ? "دعوة عروسة | دعوات إلكترونية" : "Da3wet 3arousa | Digital Invitations";
   document.querySelector('meta[name="description"]').content = arabic
     ? "دعوات إلكترونية فاخرة للخطوبة والفرح والمناسبات الخاصة"
     : "Elegant digital invitations for weddings, engagements and special events.";
